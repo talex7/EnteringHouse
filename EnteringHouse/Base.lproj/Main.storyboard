@@ -50,6 +50,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="9RM-BC-KPd"/>
                     <connections>
+                        <outlet property="frontDoorView" destination="8bC-Xf-vdC" id="4Lz-Qg-Iym"/>
                         <outlet property="navigationBar" destination="073-Kh-BpD" id="B97-yk-pEa"/>
                     </connections>
                 </viewController>
@@ -73,7 +74,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="c0y-KJ-kxS" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="332" y="-564.46776611694156"/>
+            <point key="canvasLocation" x="334" y="-565"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="Thu-0p-5ya">
